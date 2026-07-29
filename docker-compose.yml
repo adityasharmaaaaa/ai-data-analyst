@@ -1,0 +1,10 @@
+services:
+  ai-data-analyst:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./logs:/app/logs
+    restart: unless-stopped

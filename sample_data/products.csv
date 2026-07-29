@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_cost
+P100,Wireless Mouse,Accessories,8.5
+P101,Mechanical Keyboard,Accessories,22.0
+P102,USB-C Hub,Accessories,14.0
+P103,27in Monitor,Displays,95.0
+P104,Laptop Stand,Accessories,11.0
+P105,Webcam HD,Accessories,18.0
+P106,Noise Cancelling Headphones,Audio,45.0
+P107,Bluetooth Speaker,Audio,28.0
+P108,Ergonomic Chair,Furniture,120.0
+P109,Standing Desk,Furniture,210.0
+P110,Portable SSD 1TB,Storage,55.0
+P111,Smart Power Strip,Accessories,12.0
