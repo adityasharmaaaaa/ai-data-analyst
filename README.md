@@ -263,16 +263,11 @@ validate that layer; see the demo video/screenshots below.
 
 ## Screenshots & demo video
 
-_Add screenshots and a short demo video/GIF here after running the app
-locally (see Setup above) — they could not be captured in the
-environment this was built in._
 
-<!--
 ![Chat view](docs/screenshot-chat.png)
 ![Dashboard view](docs/screenshot-dashboard.png)
--->
 
-**Live app link:** _add here if deployed._
+
 
 ---
 
